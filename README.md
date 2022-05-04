@@ -10,6 +10,7 @@
 
 * [ ] Flex-grow.
 * [ ] Flex-basis.
+* [ ] Flex-shrink.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
