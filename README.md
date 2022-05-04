@@ -3,6 +3,11 @@
 
 ***Conteúdo do Módulo:***
 
+ Os Flex Itens são os filhos diretos do Flex Container, lembrando que uma *tag* se torna um flex container a partir do momento que definimos `display: flex;`
+
+ E possível que um Flex Item seja também um Flex Container, basta definimos `display: flex;` nele.
+ Assim os filhos desse item também serão flex itens.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
