@@ -1,7 +1,7 @@
 <!-- TITLE -->
 # Flex Item
 
-<!-- ***Conteúdo:*** -->
+***Conteúdo do Módulo:***
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
