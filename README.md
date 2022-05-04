@@ -13,6 +13,7 @@
 * [ ] Flex-shrink.
 * [ ] flex.
 * [ ] Order.
+* [ ] Align-self.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
