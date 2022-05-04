@@ -8,6 +8,8 @@
  E possível que um Flex Item seja também um Flex Container, basta definimos `display: flex;` nele.
  Assim os filhos desse item também serão flex itens.
 
+* [ ] Flex-grow.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
