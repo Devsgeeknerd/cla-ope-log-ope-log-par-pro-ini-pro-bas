@@ -11,6 +11,7 @@
 * [ ] Flex-grow.
 * [ ] Flex-basis.
 * [ ] Flex-shrink.
+* [ ] flex.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
