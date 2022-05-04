@@ -9,6 +9,7 @@
  Assim os filhos desse item também serão flex itens.
 
 * [ ] Flex-grow.
+* [ ] Flex-basis.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
