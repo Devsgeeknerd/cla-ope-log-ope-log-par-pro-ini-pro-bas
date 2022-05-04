@@ -63,4 +63,4 @@
 &nbsp;
 ![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/mod-fle-ite-fle-box?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
 &nbsp;
-<!-- ![license](https://img.shields.io/github/license/Devsgeeknerd/?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório") -->
+![license](https://img.shields.io/github/license/Devsgeeknerd/mod-fle-ite-fle-box?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
