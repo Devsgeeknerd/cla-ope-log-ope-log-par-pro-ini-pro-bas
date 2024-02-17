@@ -5,6 +5,23 @@
 
 [Exemplo.](main.ts)
 
+> [!IMPORTANT]\
+> **Boas práticas**:
+>
+> * Uso de variáveis com nomes descritivos, como “x” e “y”.
+> * Comentários claros para indicar o que a condição verifica.
+> * Incluir o uso de parênteses para garantir a ordem correta das operações lógicas.
+
+> [!WARNING]\
+> **Sugestões de melhoria**:
+>
+> * Os comentários ajudam, mas expressões claras podem reduzir a necessidade de muitos comentários.
+
+> [!NOTE]\
+> **Observações**:
+>
+> * O operador lógico “NOT” inverte o valor da expressão booleana.
+
 <!-- Informações -->
 ## &#8505; Informações
 
